@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "data_kind": "SYNTHETIC_TEST_ONLY",
+  "symbols_including_benchmark": 101,
+  "price_rows": 75750,
+  "cutoffs": 100,
+  "horizons": [
+    5,
+    20,
+    60
+  ],
+  "validation_cases": 300,
+  "factor_cases": 6000,
+  "selected_trade_rows": 3000,
+  "results_rows": 1500,
+  "elapsed_seconds": 399.93,
+  "new_weights_market_validated": false,
+  "not_real_market_returns": true,
+  "status_counts": {
+    "BASELINE_STABILITY_NOT_PROVEN": 251,
+    "BASELINE_INSUFFICIENT_INDEPENDENT_BLOCKS": 49
+  }
+}

@@ -1,0 +1,8 @@
+V19.2 clean extracted release test run
+........................................................................ [ 39%]
+........................................................................ [ 78%]
+........................................                                 [100%]
+184 passed in 183.09s (0:03:03)
+
+Synthetic full flow: 100 unique cutoffs, 300 horizon cases, 6000 factor rows.
+Real online 100-date market performance: NOT_TESTED in this container (DNS error).

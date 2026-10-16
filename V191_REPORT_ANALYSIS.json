@@ -1,0 +1,371 @@
+{
+  "records": [
+    {
+      "date": "2024-09-11",
+      "horizon": 5,
+      "baseline": 0.0318,
+      "adaptive": 0.0906,
+      "benchmark": 0.018000000000000002,
+      "complete": true
+    },
+    {
+      "date": "2024-09-11",
+      "horizon": 20,
+      "baseline": 0.111,
+      "adaptive": 0.111,
+      "benchmark": 0.1099,
+      "complete": true
+    },
+    {
+      "date": "2024-09-11",
+      "horizon": 60,
+      "baseline": 0.0143,
+      "adaptive": 0.0143,
+      "benchmark": 0.0901,
+      "complete": true
+    },
+    {
+      "date": "2024-10-16",
+      "horizon": 5,
+      "baseline": -0.0323,
+      "adaptive": -0.0323,
+      "benchmark": 0.0054,
+      "complete": true
+    },
+    {
+      "date": "2024-10-16",
+      "horizon": 20,
+      "baseline": -0.12380000000000001,
+      "adaptive": -0.12380000000000001,
+      "benchmark": -0.0202,
+      "complete": true
+    },
+    {
+      "date": "2024-10-16",
+      "horizon": 60,
+      "baseline": -0.1789,
+      "adaptive": -0.1789,
+      "benchmark": 0.0208,
+      "complete": true
+    },
+    {
+      "date": "2024-12-19",
+      "horizon": 5,
+      "baseline": null,
+      "adaptive": null,
+      "benchmark": 0.0183,
+      "complete": false
+    },
+    {
+      "date": "2024-12-19",
+      "horizon": 20,
+      "baseline": null,
+      "adaptive": null,
+      "benchmark": 0.0083,
+      "complete": false
+    },
+    {
+      "date": "2024-12-19",
+      "horizon": 60,
+      "baseline": null,
+      "adaptive": null,
+      "benchmark": -0.0524,
+      "complete": false
+    },
+    {
+      "date": "2025-04-15",
+      "horizon": 5,
+      "baseline": -0.0149,
+      "adaptive": -0.0149,
+      "benchmark": -0.0525,
+      "complete": true
+    },
+    {
+      "date": "2025-04-15",
+      "horizon": 20,
+      "baseline": 0.1929,
+      "adaptive": 0.1929,
+      "benchmark": 0.1112,
+      "complete": true
+    },
+    {
+      "date": "2025-04-15",
+      "horizon": 60,
+      "baseline": null,
+      "adaptive": null,
+      "benchmark": null,
+      "complete": false
+    },
+    {
+      "date": "2025-06-09",
+      "horizon": 5,
+      "baseline": -0.057699999999999994,
+      "adaptive": -0.057699999999999994,
+      "benchmark": null,
+      "complete": true
+    },
+    {
+      "date": "2025-06-09",
+      "horizon": 20,
+      "baseline": -0.0695,
+      "adaptive": -0.0998,
+      "benchmark": null,
+      "complete": true
+    },
+    {
+      "date": "2025-06-09",
+      "horizon": 60,
+      "baseline": 0.1185,
+      "adaptive": 0.1185,
+      "benchmark": null,
+      "complete": true
+    },
+    {
+      "date": "2025-09-04",
+      "horizon": 5,
+      "baseline": -0.0765,
+      "adaptive": -0.0765,
+      "benchmark": 0.0471,
+      "complete": true
+    },
+    {
+      "date": "2025-09-04",
+      "horizon": 20,
+      "baseline": -0.0965,
+      "adaptive": -0.0965,
+      "benchmark": 0.134,
+      "complete": true
+    },
+    {
+      "date": "2025-09-04",
+      "horizon": 60,
+      "baseline": -0.12269999999999999,
+      "adaptive": -0.12269999999999999,
+      "benchmark": 0.1764,
+      "complete": true
+    },
+    {
+      "date": "2025-11-18",
+      "horizon": 5,
+      "baseline": -0.0212,
+      "adaptive": -0.0212,
+      "benchmark": -0.0015,
+      "complete": true
+    },
+    {
+      "date": "2025-11-18",
+      "horizon": 20,
+      "baseline": 0.087,
+      "adaptive": 0.087,
+      "benchmark": 0.029900000000000003,
+      "complete": true
+    },
+    {
+      "date": "2025-11-18",
+      "horizon": 60,
+      "baseline": 0.37689999999999996,
+      "adaptive": 0.37689999999999996,
+      "benchmark": 0.28059999999999996,
+      "complete": true
+    },
+    {
+      "date": "2026-01-19",
+      "horizon": 5,
+      "baseline": -0.020499999999999997,
+      "adaptive": -0.020499999999999997,
+      "benchmark": 0.0,
+      "complete": true
+    },
+    {
+      "date": "2026-01-19",
+      "horizon": 20,
+      "baseline": -0.0698,
+      "adaptive": -0.0698,
+      "benchmark": 0.1225,
+      "complete": true
+    },
+    {
+      "date": "2026-01-19",
+      "horizon": 60,
+      "baseline": -0.11380000000000001,
+      "adaptive": -0.11380000000000001,
+      "benchmark": 0.2872,
+      "complete": true
+    },
+    {
+      "date": "2026-04-14",
+      "horizon": 5,
+      "baseline": -0.0044,
+      "adaptive": 0.0028000000000000004,
+      "benchmark": 0.0176,
+      "complete": true
+    },
+    {
+      "date": "2026-04-14",
+      "horizon": 20,
+      "baseline": 0.2167,
+      "adaptive": 0.12869999999999998,
+      "benchmark": 0.1301,
+      "complete": true
+    },
+    {
+      "date": "2026-04-14",
+      "horizon": 60,
+      "baseline": 0.0169,
+      "adaptive": 0.0507,
+      "benchmark": 0.2519,
+      "complete": true
+    },
+    {
+      "date": "2026-05-25",
+      "horizon": 5,
+      "baseline": 0.022400000000000003,
+      "adaptive": 0.022400000000000003,
+      "benchmark": 0.0334,
+      "complete": true
+    },
+    {
+      "date": "2026-05-25",
+      "horizon": 20,
+      "baseline": -0.004,
+      "adaptive": -0.004,
+      "benchmark": 0.0784,
+      "complete": true
+    },
+    {
+      "date": "2026-05-25",
+      "horizon": 60,
+      "baseline": -0.21230000000000002,
+      "adaptive": -0.1832,
+      "benchmark": 0.009899999999999999,
+      "complete": true
+    }
+  ],
+  "settings": {
+    "years": 3,
+    "stocks": 100,
+    "dates": 10,
+    "horizons": [
+      5,
+      20,
+      60
+    ],
+    "trials": 24,
+    "seed": 1900,
+    "top_k": 5,
+    "warmup": 80,
+    "train_dates": 35,
+    "min_universe": 10,
+    "min_turnover": 5000000.0,
+    "max_entry_gap": 0.04,
+    "buy_fee": 0.001425,
+    "sell_fee": 0.001425,
+    "sell_tax": 0.003,
+    "benchmark_sell_tax": 0.001,
+    "slippage": 0.0005,
+    "optional_data": false,
+    "request_budget": 260,
+    "timeout_seconds": 12,
+    "benchmark": "0050.TW",
+    "as_of": "2026-10-15"
+  },
+  "cutoffs": [
+    "2024-09-11",
+    "2024-10-16",
+    "2024-12-19",
+    "2025-04-15",
+    "2025-06-09",
+    "2025-09-04",
+    "2025-11-18",
+    "2026-01-19",
+    "2026-04-14",
+    "2026-05-25"
+  ],
+  "source_precision": "rounded_report_cells_not_raw_trade_returns",
+  "cannot_identify_best_factors_without_trade_and_factor_ledger": true,
+  "summary": [
+    {
+      "horizon": 5,
+      "requested_cases": 10,
+      "paired_model_cases": 9,
+      "baseline_mean": -0.019255555555555554,
+      "adaptive_mean": -0.01192222222222222,
+      "weight_change_mean": 0.007333333333333334,
+      "improved": 2,
+      "worsened": 0,
+      "unchanged": 7,
+      "positive_cases": 3,
+      "matched_benchmark_cases": 8,
+      "matched_adaptive_mean": -0.006199999999999999,
+      "matched_baseline_mean": -0.01445,
+      "matched_benchmark_mean": 0.0084375,
+      "mean_excess": -0.014637500000000001,
+      "benchmark_beats": 2,
+      "incomplete_dates": [
+        "2024-12-19"
+      ],
+      "missing_benchmark_dates": [
+        "2025-06-09"
+      ]
+    },
+    {
+      "horizon": 20,
+      "requested_cases": 10,
+      "paired_model_cases": 9,
+      "baseline_mean": 0.027111111111111107,
+      "adaptive_mean": 0.013966666666666662,
+      "weight_change_mean": -0.013144444444444446,
+      "improved": 0,
+      "worsened": 2,
+      "unchanged": 7,
+      "positive_cases": 4,
+      "matched_benchmark_cases": 8,
+      "matched_adaptive_mean": 0.028187499999999994,
+      "matched_baseline_mean": 0.0391875,
+      "matched_benchmark_mean": 0.086975,
+      "mean_excess": -0.058787500000000006,
+      "benchmark_beats": 3,
+      "incomplete_dates": [
+        "2024-12-19"
+      ],
+      "missing_benchmark_dates": [
+        "2025-06-09"
+      ]
+    },
+    {
+      "horizon": 60,
+      "requested_cases": 10,
+      "paired_model_cases": 8,
+      "baseline_mean": -0.01263750000000001,
+      "adaptive_mean": -0.004775000000000008,
+      "weight_change_mean": 0.007862500000000001,
+      "improved": 2,
+      "worsened": 0,
+      "unchanged": 6,
+      "positive_cases": 4,
+      "matched_benchmark_cases": 7,
+      "matched_adaptive_mean": -0.022385714285714294,
+      "matched_baseline_mean": -0.031371428571428585,
+      "matched_benchmark_mean": 0.15955714285714287,
+      "mean_excess": -0.18194285714285716,
+      "benchmark_beats": 1,
+      "incomplete_dates": [
+        "2024-12-19",
+        "2025-04-15"
+      ],
+      "missing_benchmark_dates": [
+        "2025-04-15",
+        "2025-06-09"
+      ]
+    }
+  ],
+  "evaluation_role": "OBSERVED_DEVELOPMENT_DATA_NOT_NEW_HOLDOUT",
+  "findings": [
+    "A summary return table cannot attribute failure to KD, RSI, W-bottom, or any other individual factor.",
+    "Compare model returns only on identical complete dates; compare to benchmark on their intersection.",
+    "A report marked optional_data=false does not validate revenue or institutional factors.",
+    "These exposed cutoff dates are development diagnostics for future revisions.",
+    "Overlapping 60-session cases are not independent trials.",
+    "Request trade ledger, fit traces and price source coverage before claiming any factor is optimal."
+  ]
+}
